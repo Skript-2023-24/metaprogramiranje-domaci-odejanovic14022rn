@@ -1,0 +1,9 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+# gem "rails"
+# gem 'roo'
+
+gem 'spreadsheet'
+gem "roo", "~> 2.8.0"
